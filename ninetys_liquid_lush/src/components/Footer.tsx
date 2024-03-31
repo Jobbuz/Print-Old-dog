@@ -5,7 +5,7 @@ export default function Footer() {
 
     const pageArr = [
         {name:"Home", path:"/"},
-        {name:"Food", path:"/food"},
+        {name:"Menu", path:"/menu"},
         {name:"About Us", path:"/aboutus"},
         {name:"Contact", path:"/contact"},
     ]
