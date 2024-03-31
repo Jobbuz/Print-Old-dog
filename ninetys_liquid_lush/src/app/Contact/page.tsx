@@ -16,13 +16,13 @@ export default function page() {
             <div className="pr-16 w-1/2">
               <h1 className="pb-4 font-bold text-2xl">Phone</h1>
               <p className="font-medium text-base">
-                If you like to hear a voice at the other end, we're there for
+                If you like to hear a voice at the other end, we&quot;re there for
                 you with everything you need.
               </p>
               <p className="font-medium text-base">Call 000-000-0000</p>
               <br></br>
               <p className="font-medium text-base">
-                Wherever you're calling from, standard rates apply to phone
+                Wherever you&quot;re calling from, standard rates apply to phone
                 charges.
               </p>
               <p className="font-medium text-base">Monday - Sunday</p>
@@ -47,7 +47,7 @@ export default function page() {
               <h1 className="pb-4 font-bold text-2xl">Email</h1>
               <p className="font-medium text-base">
                 Because you might need help anytime, day-or-night. So email and
-                we'll get back to you as soon as possible.
+                we&quot;ll get back to you as soon as possible.
               </p>
               <p className="font-medium text-base underline">
                 sinnoClubeiei@gmail.com

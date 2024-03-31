@@ -5,7 +5,7 @@ export default function NavBar() {
   const PageName = [
     { name: "Home", path: "/" },
     { name: "Menu", path: "/Menu" },
-    { name: "About Us", path: "/AboutUs" },
+    { name: "About Us", path: "/aboutus" },
     { name: "Contact", path: "/Contact" },
   ];
   return (
