@@ -14,7 +14,7 @@ export default function NavBar() {
         <h1 className="font-bold text-[#ffd23f]">90s LIQUID LUSH</h1>
         <div className="flex gap-x-[1rem] font-semibold text-[#ffd23f] text-[14px]">
           {PageName.map((page) => (
-            <Link key={page.name} href={page.path}>
+            <Link key={page.name} href={page.path} className="hover:underline">
               {page.name}
             </Link>
           ))}
