@@ -3,7 +3,7 @@ import React from "react";
 
 export default function NavBar() {
   const PageName = [
-    { name: "Home", path: "/Home" },
+    { name: "Home", path: "/" },
     { name: "Menu", path: "/Menu" },
     { name: "About Us", path: "/AboutUs" },
     { name: "Contact", path: "/Contact" },

@@ -64,12 +64,12 @@ export default function page() {
             </div>
           </div>
           <div className="flex flex-row">
-            <div className="w-1/2">
+            <div className="w-1/2 h-80">
               <h1 className="pb-4 font-bold text-2xl">Map</h1>
               <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7740.378133149028!2d100.6094573759493!3d14.066010125878506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e27f8adde458f3%3A0x536c67b40b52eabe!2sSirindhorn%20International%20Institute%20of%20Technology%2C%20Rangsit%20Campus%20(SIIT-RS)!5e0!3m2!1sen!2sth!4v1711866127548!5m2!1sen!2sth"
                 width="80%"
-                height="450"
+                height="100%"
                 allowFullScreen={true}
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
