@@ -11,8 +11,8 @@ const MyComponent: React.FC = () => {
 
 export default function MainpicHome() {
     return (
-        <div className="flex justify-center">
-            <div className="w-[1512vw] h-[578vw]">
+        <div className="relative flex justify-center">
+            <div className="w-[1512px] h-[578px]">
                 <div className="relative">
                     <div className="flex justify-center">
                         <div className="top-[210px] absolute font-bold text-4xl text-white">

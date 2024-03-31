@@ -7,10 +7,10 @@ const leckerli_one = Leckerli_One({ subsets: ["latin"], weight: "400" });
 export default function Grid() {
   return (
     <div className={leckerli_one.className}>
-      <header className="flex justify-center bg-clip-text bg-gradient-to-b from-[#E10094] to-[#5E1675] mb-10 text-[#E10094] text-5xl text-transparent">
+      <header className="flex justify-center bg-clip-text bg-gradient-to-b from-[#E10094] to-[#5E1675] mt-5 mb-10 text-[#E10094] text-5xl text-transparent">
         Our Vibes
       </header>
-      <div className="flex center justify">
+      <div className="flex justify-center mb-10">
         <div className="gap-x-10 gap-y-5 grid grid-cols-2 grid-rows-2 w-[50vw]">
           <div className="col-span-1 row-span-1 bg-F5F5F5-100 rounded-md">
             <Image
